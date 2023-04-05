@@ -4,7 +4,7 @@ import datetime
 from openpyxl import Workbook
 
 # Zabbix APIのURL、ユーザー名、パスワードを設定
-ZABBIX_URL = "http://09092310973:317567@localhost/zabbix/api_jsonrpc.php"
+ZABBIX_URL = "http://localhost/zabbix/api_jsonrpc.php"
 ZABBIX_USER = "Admin"
 ZABBIX_PASSWORD = "zabbix"
 
